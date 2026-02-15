@@ -57,14 +57,11 @@ activities = {
             "max_participants": 20,
             "participants": ["luna@mergington.edu", "maya@mergington.edu"]
             },
-            "Drama Society": {
-            "description": "Theater productions and performance arts",
-            "schedule": "Fridays, 4:00 PM - 5:30 PM",
-            "max_participants": 25,
-            "participants": ["ryan@mergington.edu"]
-        "schedule": "Fridays, 3:30 PM - 5:00 PM",
-        "max_participants": 12,
-        "participants": ["michael@mergington.edu", "daniel@mergington.edu"]
+    "Drama Society": {
+    "description": "Theater productions and performance arts",
+    "schedule": "Fridays, 4:00 PM - 5:30 PM",
+    "max_participants": 25,
+    "participants": ["ryan@mergington.edu"]
     },
     "Programming Class": {
         "description": "Learn programming fundamentals and build software projects",
